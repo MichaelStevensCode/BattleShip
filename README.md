@@ -12,4 +12,5 @@ Windows users can also double click on the .bat file to execute the application.
 
 ### Live Action
 
+![Battleship in Action](https://github.com/MichaelStevensCode/BattleShip/blob/main/img/battleship.png)
 **Enjoy**
